@@ -1,3 +1,6 @@
 [submodule "submarine"]
 	path = submarine
 	url = ./submarine/
+[submodule "subm2"]
+	path = subm2
+	url = ./subm2
